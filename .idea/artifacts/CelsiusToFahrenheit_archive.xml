@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CelsiusToFahrenheit archive">
+    <output-path>$PROJECT_DIR$/out/artifacts/CelsiusToFahrenheit_archive</output-path>
+    <root id="archive" name="CelsiusToFahrenheit archive.war">
+      <element id="artifact" artifact-name="CelsiusToFahrenheit" />
+    </root>
+  </artifact>
+</component>
