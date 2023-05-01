@@ -5,7 +5,7 @@ import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 
 
-/** Example of a Servlet that gets an ISBN number and returns the book price
+/** Example of a Servlet that gets a celsius degrees and returns the fahrenheit
  */
 
 public class CelsiusToFahrenheit extends HttpServlet {
